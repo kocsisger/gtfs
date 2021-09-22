@@ -2,10 +2,10 @@
 
 *** Collections ***
 
-Vileágszerte több száz közlekedési vállalat GTFS fájljai
+GTFS feeds of hundreds of providers throughout the world
 http://transitfeeds.com/feeds
 
-Oregon állam (USA) számos szolgáltatójának GTFS zip állományainak gyűjteménye.
+GTFS zip files of many proveiders from Oregon state (USA)
 http://oregon-gtfs.com/
 
 ---------------------------------

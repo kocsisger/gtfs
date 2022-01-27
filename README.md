@@ -1,4 +1,7 @@
-# gtfs
+# networks extracted from gtfs feeds
+https://github.com/kocsisger/gtfs/tree/main/networks
+
+# gtfs feeds
 
 ## Collections 
 
@@ -72,12 +75,12 @@ https://www.fairfaxcounty.gov/connector/sites/connector/files/Assets/connector_g
 (https://www.fairfaxcounty.gov/connector/)
 
 - Montgomery, USA  
-távolsági busz (Montgomery County Department of Transportation)  
+long distance bus (Montgomery County Department of Transportation)  
 https://www.montgomerycountymd.gov/DOT-Transit/Resources/Files/GTFS/RideOnGTFS.zip  
 (https://www.montgomerycountymd.gov/dot/index.html)
 
 - Connecticut, USA  
-helyi busz (CT Transit)  
+Local bus (CT Transit)  
 https://www.cttransit.com/sites/default/files/gtfs/googlect_transit.zip  
 (https://www.cttransit.com/)
 

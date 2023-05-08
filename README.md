@@ -1,3 +1,7 @@
+# When using please cite: 
+Gergely Kocsis and Imre Varga, gtfs2net: Extraction of General Transit Feed Specification Data Sets to Abstract Networks and Their Analysis,
+Published Online: 24 Apr 2023 https://doi.org/10.1089/big.2022.0269
+
 # networks extracted from gtfs feeds
 https://github.com/kocsisger/gtfs/tree/main/networks
 
